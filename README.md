@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Jujugin
+
+#### Developpeur Javascript / Lua / VB.net / HTML & CSS
+
+ -  👋 Bientôt des bots créer par moi en Open Source
+- 🌱 Aussi des scripts en lua pour FiveM
+- 🔭 Je bosse présentement sur : vincebot.ga
+- 📫 Je travaille aussi sur un menu admin en lua pour FiveM
+
